@@ -1,0 +1,3 @@
+- Basic HTML & HTML5
+- Basic CSS
+- Applied Visual Design
